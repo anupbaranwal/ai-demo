@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AiDemoApplication {
+public class DeepSeekApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AiDemoApplication.class, args);
+		SpringApplication.run(DeepSeekApplication.class, args);
 	}
 
 }
