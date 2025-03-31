@@ -3,9 +3,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.openapi.ai</groupId>
-	<artifactId>ai-demo</artifactId>
+	<artifactId>deepseek-clone</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ai-demo</name>
+	<name>deepseek-clone</name>
 	<description>Demo project for Deepseek API</description>
 	<properties>
 		<java.version>17</java.version>
